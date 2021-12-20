@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grafmen9999
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning PHP (Symfony, Laravel, Laminas), JS
+- 🌱 I’m currently working with PHP (Symfony, Laravel, Laminas), JS and Golang
 - 📫 How to reach me grafmen9999@gmail.com
 
 <!---
